@@ -47,5 +47,5 @@ transcription errors. [Live demo](https://nmoerbeek.github.io/LatinPractice/)
 ### Contact
 
 - Twitter/X: [@NoahMoerbeek](https://twitter.com/NoahMoerbeek)
-- LinkedIn: TODO_LINKEDIN_URL
-- Email: TODO_EMAIL
+- LinkedIn: [noah-moerbeek](https://www.linkedin.com/in/noah-moerbeek-72ba469/)
+- Email: [nmoerbeek@gmail.com](mailto:nmoerbeek@gmail.com)
