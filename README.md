@@ -1,5 +1,7 @@
 ## Noah Moerbeek
 
+Charles Town, WV - Washington DC / Northern Virginia / Frederick MD metro area.
+
 **Full-stack .NET engineer.** I build and maintain the software a city runs on: business
 licensing, permitting, and pet licensing systems used by municipal governments across
 California, Washington, Nevada and beyond. Roughly 50 public-sector clients.
